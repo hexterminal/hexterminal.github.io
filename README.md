@@ -1,2 +1,2 @@
 # chrisbradleyjones.github.io
-Personal Site
+[Personal Site](https://chrisbradleyjones.github.io/)
