@@ -1,2 +1,2 @@
-# chrisbradleyjones.github.io
-[Personal Site](https://chrisbradleyjones.github.io/)
+# hexterminal.github.io
+[Personal Site](https://hexterminal.github.io/)
